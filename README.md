@@ -1,3 +1,3 @@
 # Instagram-Bot
 
-Instagram Bot to Web Scrap data of flood pages
+Instagram Bot to Web Scrap data of food pages
